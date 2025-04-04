@@ -6,7 +6,7 @@
 <p align="center"><em>The timeless wisdom of Sanatan Dharma — in your hands.</em></p>
 
 <p align="center">
-  <a href="https://github.com/Spiritual-Vision/Bhagavad-Gita/releases/download/v1.0/Bhagwad_Gita_v1.0.apk">
+  <a href="https://github.com/Spiritual-Vision/Maha-Gita/releases/">
     <img src="https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android" alt="Download APK">
   </a>
 </p>
