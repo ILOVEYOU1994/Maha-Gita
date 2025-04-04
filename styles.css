@@ -1,0 +1,97 @@
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Header */
+h1 {
+    color: #1d3557;
+    font-size: 28px;
+    margin-top: 20px;
+}
+
+/* Section Titles */
+h2 {
+    color: #2a9d8f;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+/* Features Section */
+.features {
+    max-width: 90%;
+    margin: auto;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.features p {
+    font-size: 16px;
+    color: #555;
+}
+
+.features span {
+    font-weight: bold;
+    color: #e63946;
+}
+
+/* App Screenshots */
+.screenshots {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.screenshots img {
+    width: 150px;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Download Button */
+.download {
+    margin-top: 20px;
+}
+
+.download a {
+    display: inline-block;
+    text-decoration: none;
+    background: #e63946;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.download a:hover {
+    background: #d62828;
+}
+
+/* Footer */
+.footer {
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+.footer a {
+    color: #1d3557;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.footer a:hover {
+    color: #e63946;
+}
